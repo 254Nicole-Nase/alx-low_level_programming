@@ -41,3 +41,7 @@ Write a function that prints the last digit of a number.
 8. I'm federal agent Jack Bauer, and today is the longest day of my life
 Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 - Prototype: void jack_bauer(void);
+9. Learn your times table
+Write a function that prints the 9 times table, starting with 0.
+- Prototype: void times_table(void);
+Format: see example
